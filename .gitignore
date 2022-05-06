@@ -1,5 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# invisible files and dirs
+.*
+
+# but not gitignore
+!.gitignore
+
 # dependencies
 /node_modules
 /.pnp
@@ -10,6 +16,7 @@
 
 # production
 /build
+/dist
 
 # misc
 .idea/
