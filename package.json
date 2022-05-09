@@ -1,0 +1,22 @@
+{
+    "name": "typescript-hello-world",
+    "version": "1.0.0",
+    "description": "typescript hello world",
+    "scripts": {
+        "start": "parcel serve src/index.html --dist-dir dist/dev",
+        "build" : "parcel build src/index.html --dist-dir dist/build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SchreibCode/typescript-hello-world.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SchreibCode/typescript-hello-world/issues"
+    },
+    "homepage": "https://github.com/SchreibCode/typescript-hello-world#readme",
+    "dependencies": {
+        "parcel": "^2.5.0"
+    }
+}
