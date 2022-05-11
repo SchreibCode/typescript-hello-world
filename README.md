@@ -1,6 +1,6 @@
 <img src="https://github.com/SchreibCode/typescript-hello-world/blob/main/img/typescript-hello-world.jpg" width="450" alt="Youtube Thumbnail"/>
 
-# TypeScript - Hello World
+# TypeScript für Anfänger
 
 -   In diesem Repository findest du den Code zum Video: "TypeScript für Anfänger".
 -   Falls du das Video noch nicht gesehen hast kannst du es hier:
