@@ -1,10 +1,10 @@
-<img src="https://github.com/SchreibCode/<repository-name>/blob/main/img/<img-name>" width="450" alt="Youtube Thumbnail"/>
+<img src="https://github.com/SchreibCode/typescript-hello-world/blob/main/img/typescript-hello-world.jpg" width="450" alt="Youtube Thumbnail"/>
 
 # TypeScript - Hello World
 
--   In diesem Repository findest du den Code zum Video: "TypeScript - Hello World".
+-   In diesem Repository findest du den Code zum Video: "TypeScript für Anfänger".
 -   Falls du das Video noch nicht gesehen hast kannst du es hier:
-    [Link zum Video](https://www.youtube.com) anschauen.
+    [Link zum Video](https://youtu.be/enic3oKml70) anschauen.
 
 ## Wie kriege ich den Code?
 
